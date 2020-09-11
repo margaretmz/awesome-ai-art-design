@@ -1,6 +1,13 @@
 # Awesome AI for Art & Design
 An awesome list of AI for art and design - resources, and popular datasets and how we may apply computer vision tasks to art and design.
 
+## Contents
+* [Computer Vision Tasks](#computer-vision-tasks)
+* [Resources](#resources)
+* [Datasets](#datasets)
+  * [Art data](#art-data)
+  * [Design data](#design-data)
+
 ## Computer Vision Tasks
 Here are some examples of how computer vision tasks can be applied to real world applications in art and design:
 
@@ -10,7 +17,7 @@ Here are some examples of how computer vision tasks can be applied to real world
 * Magenta - [website](https://magenta.tensorflow.org/) | [repo](https://github.com/magenta). 
 * [Artists and Machine Intelligence](https://ami.withgoogle.com/) - by Google.
 * [Google Arts & Culture](https://artsandculture.google.com/).
-* [RunwayML](https://runwayml.com/) - machine learning for creators.
+* [RunwayML](https://runwayml.com/) - Machine learning for creators.
 * [AI & the Future of UX](https://uxdesign.cc/ai/home).
 
 ## Datasets
@@ -24,7 +31,7 @@ Here are some examples of how computer vision tasks can be applied to real world
 
 
 ### Design data
-* Rico mobile app datasets - [website](https://interactionmining.org/rico) | [paper](http://ranjithakumar.net/resources/rico.pdf).
+* Rico mobile app datasets - [Rico](https://interactionmining.org/rico) | [paper](http://ranjithakumar.net/resources/rico.pdf).
 * [Common Mobile/Web App Icons](https://www.kaggle.com/testdotai/common-mobile-web-app-icons).
 * [Icons-50](https://www.kaggle.com/danhendrycks/icons50).
 * [The noun project](https://thenounproject.com/).
