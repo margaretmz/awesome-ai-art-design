@@ -34,7 +34,7 @@ Here is a  list of communities and projects that use AI for art and design:
 
 
 ### Design data
-* Rico mobile app datasets - [Rico](https://interactionmining.org/rico) | [paper](http://ranjithakumar.net/resources/rico.pdf).
-* [Common Mobile/Web App Icons](https://www.kaggle.com/testdotai/common-mobile-web-app-icons).
-* [Icons-50](https://www.kaggle.com/danhendrycks/icons50).
-* [The noun project](https://thenounproject.com/).
+* [Rico](https://interactionmining.org/rico) - A collection of datasets for mobile app UI along with a reasearch [paper](http://ranjithakumar.net/resources/rico.pdf).
+* [Common Mobile/Web App Icons](https://www.kaggle.com/testdotai/common-mobile-web-app-icons) - Kaggle datasets of icons scraped from the Noun Project.
+* [Icons-50](https://www.kaggle.com/danhendrycks/icons50) - Kaggle dataset of 10,000 icons in 50 classes.
+* [The noun project](https://thenounproject.com/) - A website where you can search through 2 million curated icons. It doesn't have a dataset ready for ML training but you can either download individual icons for free or purchase the icons.
