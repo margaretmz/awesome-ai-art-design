@@ -4,7 +4,7 @@ An awesome list of AI for art and design - resources, and popular datasets and h
 
 ## Contents
 * [Computer Vision Tasks](#computer-vision-tasks)
-* [Resources](#resources)
+* [Community](#community)
 * [Datasets](#datasets)
   * [Art data](#art-data)
   * [Design data](#design-data)
@@ -14,12 +14,14 @@ Here are some examples of how computer vision tasks can be applied to real world
 
 <p align="center"><img src="images/cv-tasks.png" /></p>
 
-## Resources
-* Magenta - [website](https://magenta.tensorflow.org/) | [repo](https://github.com/magenta). 
-* [Artists and Machine Intelligence](https://ami.withgoogle.com/) - by Google.
-* [Google Arts & Culture](https://artsandculture.google.com/).
-* [RunwayML](https://runwayml.com/) - Machine learning for creators.
-* [AI & the Future of UX](https://uxdesign.cc/ai/home).
+## Communitiy
+Here is a  list of communities and projects that use AI for art and design:
+
+* [Magenta](https://magenta.tensorflow.org/) ([repo](https://github.com/magenta)) - An open source research project exploring the role of machine learning as a tool in the creative process. 
+* [Artists and Machine Intelligence](https://ami.withgoogle.com/) - A program at Google that brings artists and engineers together to realize projects using Machine Intelligence.
+* [Google Arts & Culture](https://artsandculture.google.com/) - A non-profit initiative to preserve and bring the world’s art and culture online, accessible to anyone anywhere. It has cool interative experiments, virtual museums, art collections and more.
+* [RunwayML](https://runwayml.com/) - Machine learning for creators where you can [learn](https://learn.runwayml.com/#/) and and share your [projects](https://runwayml.com/madewith/).
+* [AI & the Future of UX](https://uxdesign.cc/ai/home) - A collection of blog posts about AI and its impact on the future of UX.
 
 ## Datasets
 ### Art data
