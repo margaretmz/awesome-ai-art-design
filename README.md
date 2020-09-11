@@ -26,11 +26,11 @@ Here is a  list of communities and projects that use AI for art and design:
 ## Datasets
 ### Art data
 * [The Art Institute of Chicago](https://kottke.org/18/11/the-art-institute-of-chicago-has-put-50000-high-res-images-from-their-collection-online) - 5000 high res images.
-* [Best Artworks of All Time](https://www.kaggle.com/ikarus777/best-artworks-of-all-time).
-* [Art Images: Drawing/Painting/Sculptures/Engravings](https://www.kaggle.com/thedownhill/art-images-drawings-painting-sculpture-engraving).
-* [Museum of Modern Art Collection](https://www.kaggle.com/momanyc/museum-collection).
-* [Overwatch Heroes Recognition](https://www.kaggle.com/renanmav/overwatch-heroes-recognition).
-* [Chinese Fine Art](https://www.kaggle.com/rickyjli/chinese-fine-art/).
+* [Best Artworks of All Time](https://www.kaggle.com/ikarus777/best-artworks-of-all-time) - A collection of artwork from the best 50 artists.
+* [Art Images: Drawing/Painting/Sculptures/Engravings](https://www.kaggle.com/thedownhill/art-images-drawings-painting-sculpture-engraving) - Five types of artwork separated into training and validation datasets.
+* [Museum of Modern Art Collection](https://www.kaggle.com/momanyc/museum-collection) - A collection of 72,706 artworks from 20,956 artists.
+* [Overwatch Heroes Recognition](https://www.kaggle.com/renanmav/overwatch-heroes-recognition) - 2,291 images of Overwatch heroes with vibrant colors. Great for using as style image in neural network style transfer.
+* [Chinese Fine Art](https://www.kaggle.com/rickyjli/chinese-fine-art/) - A small collection of a few hundreds of Chinese style paintings, drawings, watercolors, graphics and iconography.
 
 
 ### Design data
