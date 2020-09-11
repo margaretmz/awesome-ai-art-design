@@ -17,7 +17,7 @@ Here are some examples of how computer vision tasks can be applied to real world
 ## Community
 Here is a  list of communities and projects that use AI for art and design:
 
-* [Magenta](https://magenta.tensorflow.org/) ([repo](https://github.com/magenta)) - An open source research project exploring the role of machine learning as a tool in the creative process. 
+* [Magenta](https://magenta.tensorflow.org/) - An open source research project exploring the role of machine learning as a tool in the creative process.
 * [Artists and Machine Intelligence](https://ami.withgoogle.com/) - A program at Google that brings artists and engineers together to realize projects using Machine Intelligence.
 * [Google Arts & Culture](https://artsandculture.google.com/) - A non-profit initiative to preserve and bring the world’s art and culture online, accessible to anyone anywhere. It has cool interative experiments, virtual museums, art collections and more.
 * [RunwayML](https://runwayml.com/) - Machine learning for creators where you can [learn](https://learn.runwayml.com/#/) and and share your [projects](https://runwayml.com/madewith/).
