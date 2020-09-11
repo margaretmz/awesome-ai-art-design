@@ -1,4 +1,5 @@
-# Awesome AI for Art & Design
+# Awesome AI for Art & Design [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter](https://img.shields.io/badge/Twitter-%40margaretmz-blue)](https://twitter.com/margaretmz)
+
 An awesome list of AI for art and design - resources, and popular datasets and how we may apply computer vision tasks to art and design.
 
 ## Contents
