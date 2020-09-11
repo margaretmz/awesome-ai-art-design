@@ -14,7 +14,7 @@ Here are some examples of how computer vision tasks can be applied to real world
 
 <p align="center"><img src="images/cv-tasks.png" /></p>
 
-## Communitiy
+## Community
 Here is a  list of communities and projects that use AI for art and design:
 
 * [Magenta](https://magenta.tensorflow.org/) ([repo](https://github.com/magenta)) - An open source research project exploring the role of machine learning as a tool in the creative process. 
