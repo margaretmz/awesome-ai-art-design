@@ -15,7 +15,7 @@ Here are some examples of how computer vision tasks can be applied to real world
 <p align="center"><img src="images/cv-tasks.png" /></p>
 
 ## Community
-Here is a  list of communities and projects that use AI for art and design:
+Here is a  list of websites and projects that use AI for art and design:
 
 * [Magenta](https://magenta.tensorflow.org/) - An open source research project exploring the role of machine learning as a tool in the creative process.
 * [Artists and Machine Intelligence](https://ami.withgoogle.com/) - A program at Google that brings artists and engineers together to realize projects using Machine Intelligence.
@@ -23,17 +23,19 @@ Here is a  list of communities and projects that use AI for art and design:
 * [RunwayML](https://runwayml.com/) - Machine learning for creators where you can [learn](https://learn.runwayml.com/#/) and and share your [projects](https://runwayml.com/madewith/).
 * [AI & the Future of UX](https://uxdesign.cc/ai/home) - A collection of blog posts about AI and its impact on the future of UX.
 
-## Datasets
+## Data
 I'm including data that is ready for ML training as well as sources with free images.
 
 ### Art data
-* [The Art Institute of Chicago](https://kottke.org/18/11/the-art-institute-of-chicago-has-put-50000-high-res-images-from-their-collection-online) - 5000 high res images.
 * [Best Artworks of All Time](https://www.kaggle.com/ikarus777/best-artworks-of-all-time) - A collection of artwork from the best 50 artists.
 * [Art Images: Drawing/Painting/Sculptures/Engravings](https://www.kaggle.com/thedownhill/art-images-drawings-painting-sculpture-engraving) - Five types of artwork separated into training and validation datasets.
 * [Museum of Modern Art Collection](https://www.kaggle.com/momanyc/museum-collection) - A collection of 72,706 artworks from 20,956 artists.
 * [Overwatch Heroes Recognition](https://www.kaggle.com/renanmav/overwatch-heroes-recognition) - 2,291 images of Overwatch heroes with vibrant colors. Great for using as style image in neural network style transfer.
 * [Chinese Fine Art](https://www.kaggle.com/rickyjli/chinese-fine-art/) - A small collection of a few hundreds of Chinese style paintings, drawings, watercolors, graphics and iconography.
-* The Metropolitan Museum of Art - Over 400,000 artworks from around the world, near half of which are open access of unrestricted commercial and noncommercial use. Got to their [website](https://www.metmuseum.org/art/collection) and click on "Open Access Artworkds".
+
+### Museums with Free images
+* [The Art Institute of Chicago](https://kottke.org/18/11/the-art-institute-of-chicago-has-put-50000-high-res-images-from-their-collection-online) - 5000 high res images.
+* The Metropolitan Museum of Art - Over 400,000 artworks from around the world, near half of which are open access of unrestricted commercial and noncommercial use. Go to their [website](https://www.metmuseum.org/art/collection) and click on "Open Access Artworkds".
 * The British Museum - Near 2 million free images ([article](https://www.ianvisits.co.uk/blog/2020/04/28/british-museum-makes-1-9-million-images-available-for-free/) | [museum](https://www.britishmuseum.org/collection/galleries)).
 * Amsterdam’s Rijksmuseum - Over 700,000 paintings online copyright free ([article](https://www.ianvisits.co.uk/blog/2021/01/21/over-700000-paintings-from-the-rijksmuseum-online-copyright-free/) | [Museum](https://www.rijksmuseum.nl/en/rijksstudio)).
 
