@@ -32,6 +32,7 @@ I'm including data that is ready for ML training as well as sources with free im
 * [Museum of Modern Art Collection](https://www.kaggle.com/momanyc/museum-collection) - A collection of 72,706 artworks from 20,956 artists.
 * [Overwatch Heroes Recognition](https://www.kaggle.com/renanmav/overwatch-heroes-recognition) - 2,291 images of Overwatch heroes with vibrant colors. Great for using as style image in neural network style transfer.
 * [Chinese Fine Art](https://www.kaggle.com/rickyjli/chinese-fine-art/) - A small collection of a few hundreds of Chinese style paintings, drawings, watercolors, graphics and iconography.
+* [Traditional Chinese Landscape Painting Dataset](https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset) - 2,192 high-quality traditional Chinese landscape paintings (中国山水画) sized at 512x512. [Paper](https://arxiv.org/abs/2011.05552) proposes Sketch-And-Paint GAN (SAPGAN), which generates Chinese landscape paintings without conditional input.
 
 ### Museums with Free images
 * [The Art Institute of Chicago](https://kottke.org/18/11/the-art-institute-of-chicago-has-put-50000-high-res-images-from-their-collection-online) - 5000 high res images.
