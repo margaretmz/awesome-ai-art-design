@@ -27,6 +27,7 @@ Here is a  list of websites and projects that use AI for art and design:
 I'm including data that is ready for ML training as well as sources with free images.
 
 ### Art data
+* WikiArt: [repo](https://github.com/cs-chan/ArtGAN/blob/master/WikiArt%20Dataset/README.md) | [Kaggle](https://www.kaggle.com/antoinegruson/-wikiart-all-images-120k-link) | [paperswithcode](https://paperswithcode.com/dataset/wikiart) 
 * [Best Artworks of All Time](https://www.kaggle.com/ikarus777/best-artworks-of-all-time) - A collection of artwork from the best 50 artists.
 * [Art Images: Drawing/Painting/Sculptures/Engravings](https://www.kaggle.com/thedownhill/art-images-drawings-painting-sculpture-engraving) - Five types of artwork separated into training and validation datasets.
 * [Museum of Modern Art Collection](https://www.kaggle.com/momanyc/museum-collection) - A collection of 72,706 artworks from 20,956 artists.
