@@ -22,6 +22,7 @@ Here is a  list of websites and projects that use AI for art and design:
 * [Google Arts & Culture](https://artsandculture.google.com/) - A non-profit initiative to preserve and bring the world’s art and culture online, accessible to anyone anywhere. It has cool interative experiments, virtual museums, art collections and more.
 * [RunwayML](https://runwayml.com/) - Machine learning for creators where you can [learn](https://learn.runwayml.com/#/) and and share your [projects](https://runwayml.com/madewith/).
 * [AI & the Future of UX](https://uxdesign.cc/ai/home) - A collection of blog posts about AI and its impact on the future of UX.
+* [LandscapioAI](https://www.landscapioai.com/) - AI landscape and garden design software that turns yard photos and design prompts into realistic outdoor makeover concepts.
 
 ## Data
 I'm including data that is ready for ML training as well as sources with free images.
