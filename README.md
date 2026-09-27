@@ -3,6 +3,7 @@
 An awesome list of AI for art and design - resources, and popular datasets and how we may apply computer vision tasks to art and design.
 
 ## Contents
+- [Raphael](https://raphael.app/) – AI workspace for creative production — image, video, and design in one place.
 * [Computer Vision Tasks](#computer-vision-tasks)
 * [Community](#community)
 * [Datasets](#datasets)
